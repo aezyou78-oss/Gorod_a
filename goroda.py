@@ -1,8 +1,9 @@
 import random
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
+from config import TOKEN
 
-TOKEN = '8744968969:AAGeRbm7U4_07IzW6MMS_6jMQI4XtVOVNw8'
+
 bot = telebot.TeleBot(TOKEN)
 
 
