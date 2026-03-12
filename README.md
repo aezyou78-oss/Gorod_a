@@ -1,4 +1,22 @@
-Игра в города по Российской Федерации
+US
+
+A game of cities across the Russian Federation
+
+The project was created during Python Pro lessons on the "study at home" platform for entertainment purposes.
+
+@bot.message_handler - responds to user messages and displays the bot's message
+
+bot.infinity_polling() - continuously checks for messages from the user
+
+Before using this project, go to BotFather and create a Telegram bot. Copy your bot's token and paste it in the following format: TOKEN = 'your token' (do not publish it to GitHub where it's visible). Press /start. Then, in the development environment, press the start button and type /start into the bot again. This will display the control menu at the bottom.
+
+The bot has several commands: /game, /stop, /start, /info, /stats. You won't need any of them except /start, as you'll need to use it every time you change something in the code. The rest are available in the control buttons. To add new cities, edit the cities.txt list. Encoding='Windows-1251' is also used. Keep this in mind when editing the city list file. Enjoy using the bot!
+
+Project author Dmitry 'Suff'. Personal information is not shared. 
+
+RU
+
+Игра в города по Российской федерации
 
 Проект был создан на уроках По python pro на платформе учи дома, сделан в развлекательных целях. 
 
